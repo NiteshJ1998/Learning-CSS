@@ -1,0 +1,23 @@
+.classSelector {
+    color: rgba(255,255,0,0.7)
+}
+
+h1 {
+    color: gold
+}
+
+body {
+    color: brown;
+    font-size: 50px;
+
+}
+
+.box {
+    height: 100px;
+    width: 1rem;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid red;
+    background-color: orange;
+
+}
